@@ -4,6 +4,7 @@
 
 body {
 	margin: 0;
+	font-family: 'Poppins', sans-serif;
 }
 
 .navbar {
@@ -13,4 +14,22 @@ body {
 
 	background: #FFFFFF;
 	box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.hero {
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.hero--photos {
+	align-self: center;
+}
+
+.hero--header {
+	margin-bottom: 14px;
+}
+
+.hero--text {
+	margin-top: 0;
 }
