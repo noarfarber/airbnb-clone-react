@@ -33,3 +33,20 @@ body {
 .hero--text {
 	margin-top: 0;
 }
+
+.card {
+	width: 175px;
+}
+
+.card--image {
+	width: 200px;
+	border-radius: 9px;
+}
+
+.card--star {
+	width: 14px;
+}
+
+.card--info {
+	align-items: center;
+}
